@@ -15,11 +15,11 @@ cd FAQ-Chatbot
 pip install -r requirements.txt
 ```
 
-#Usage
+## Usage
 Run the application using Streamlit:
 ```bash
 streamlit run app.py
 ```
 
-##Contributing
+## Contributing
 Contributions to enhance the functionality or performance of the FAQ-Chatbot are welcome. Please fork the repository and submit a pull request.
